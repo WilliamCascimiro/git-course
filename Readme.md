@@ -7,3 +7,5 @@ Saiba mais.
 Gostou do curso? Quer mais ? Ajude com uma doação.
 
 rename i
+
+mais coisa
