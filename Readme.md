@@ -6,4 +6,4 @@ Saiba mais.
 
 Gostou do curso? Quer mais ? Ajude com uma doação.
 
-rename
+rename i
